@@ -1,4 +1,4 @@
-## BitFlags
+## Unity-BitFlags
 
 ### Table of Contents
 
